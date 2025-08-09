@@ -43,7 +43,7 @@ Another process of observing these particles are SMEFT.
 
 ## 4. About the Scalar Leptoquark Π<sub>7</sub>
 - Gauge quantum numbers: **(3, 2)<sub>7/6</sub>**  
-- Appears in SU(5) GUT models  
+- Appears in 45 Higgs Dimensional of extended higgs sector of SU(5) : GUT models  
 - Couples to both left-handed and right-handed fermions  
 - Can mediate flavour-changing processes at tree level
 
