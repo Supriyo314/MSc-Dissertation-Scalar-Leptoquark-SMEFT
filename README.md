@@ -8,9 +8,8 @@
 **Aim:** SMEFT global fits + MadGraph5_aMC@NLO simulations for Π₇ (R₂), compared to digitised ATLAS Run-2 limits.
 ## Table of Contents
 - [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Repository Structure](#repository-structure)
-- [Results](#results)
+- [Wilson Coefficients](#installation)
+- [Mass Bound](#usage)
+- [Materials](#repository-structure)
 - [References](#references)
 
