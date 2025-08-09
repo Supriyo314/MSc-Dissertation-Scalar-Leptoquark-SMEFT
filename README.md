@@ -6,3 +6,11 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
 **Aim:** SMEFT global fits + MadGraph5_aMC@NLO simulations for Π₇ (R₂), compared to digitised ATLAS Run-2 limits.
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Repository Structure](#repository-structure)
+- [Results](#results)
+- [References](#references)
+
