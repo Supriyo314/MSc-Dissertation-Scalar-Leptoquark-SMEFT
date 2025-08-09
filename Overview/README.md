@@ -1,10 +1,3 @@
-# Overview
-
-This section provides a structured summary of the MSc Dissertation project on the **Phenomenological Study of Scalar Leptoquark Π<sub>7</sub>** and its collider constraints.  
-The goal is to capture the physics motivation, theoretical framework, and key results in a concise, navigable format.
-
----
-
 ## 1. The Standard Model (SM)
 The Standard Model (SM) of particle physics is a gauge theory based on the symmetry group:  
 
