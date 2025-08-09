@@ -1,63 +1,76 @@
-# Overview – MSc Dissertation Project  
-**Phenomenological Study of Scalar Leptoquark Π₇ and Collider Constraints**  
-University of Glasgow – MSc Theoretical Physics  
+# Overview
+
+This section provides a structured summary of the MSc Dissertation project on the **Phenomenological Study of Scalar Leptoquark Π<sub>7</sub>** and its collider constraints.  
+The goal is to capture the physics motivation, theoretical framework, and key results in a concise, navigable format.
 
 ---
 
-## 1. Standard Model (SM) Overview  
-The Standard Model describes the electromagnetic, weak, and strong interactions of all known fundamental particles.  
-It is based on the gauge group:  
-\[
-SU(3)_C \times SU(2)_W \times U(1)_Y
-\]  
-Despite its success, the SM leaves key phenomena unexplained.
+## 1. The Standard Model (SM)
+The Standard Model (SM) of particle physics is a gauge theory based on the symmetry group:  
+
+**SU(3)<sub>C</sub> × SU(2)<sub>W</sub> × U(1)<sub>Y</sub>**  
+
+It successfully describes strong, weak, and electromagnetic interactions.  
+However, the SM fails to explain:
+- Dark matter  
+- Matter–antimatter asymmetry  
+- Neutrino masses  
+- Gravity
 
 ---
 
-## 2. Beyond the Standard Model (BSM) – Motivation  
-- **Dark Matter** – No SM particle can account for its existence.  
-- **Matter–Antimatter Asymmetry** – Observed imbalance requires new physics.  
-- **Neutrino Masses** – SM neutrinos are massless without extension.  
+## 2. Beyond the Standard Model (BSM) & Motivation
+To address these shortcomings, new physics is required.  
+Theoretical motivations include:
+- Grand Unified Theories (GUTs)
+- Supersymmetry
+- Extended Higgs sectors
+- Leptoquarks
 
-These gaps motivate exploring BSM frameworks such as **scalar leptoquarks**.
-
----
-
-## 3. Collider Physics and the Need for SMEFT  
-- High-energy colliders (e.g., LHC) enable direct searches for new particles.  
-- The **Standard Model Effective Field Theory (SMEFT)** parametrises deviations from SM predictions using higher-dimensional operators.  
-- SMEFT bridges collider data and theoretical models in a model-independent way.
+Leptoquarks are hypothetical bosons that couple directly to a quark and a lepton, potentially explaining **Lepton Flavour Universality (LFU) violations** observed in B-meson decays.
 
 ---
 
-## 4. Our Particle – Scalar Leptoquark Π₇  
-- **Type**: Scalar leptoquark (R₂-type).  
-- **Quantum Numbers**:  
-\[
-(3, 2)_{\frac{7}{6}}
-\]  
-- **Phenomenology**: Couples quarks and leptons at tree level.  
-- **Potential**: Explains hints of lepton flavor universality (LFU) violation in rare B decays.
+## 3. Collider Physics & The Need for SMEFT
+At hadron colliders like the **LHC**, searches for BSM particles require:
+- High-energy parton collisions  
+- Accurate modelling of SM and BSM processes  
+
+**SMEFT (Standard Model Effective Field Theory)** is used when new particles are too heavy to be directly produced, allowing their effects to be studied through higher-dimensional operators.
 
 ---
 
-## 5. Yukawa Couplings and Mass Bounds  
-Detailed results are provided here → **[Yukawa Coupling & Mass Analysis](../yukawa_mass/README.md)**
+## 4. About the Scalar Leptoquark Π<sub>7</sub>
+- Gauge quantum numbers: **(3, 2)<sub>7/6</sub>**  
+- Appears in SU(5) GUT models  
+- Couples to both left-handed and right-handed fermions  
+- Can mediate flavour-changing processes at tree level
+
+---
+
+## 5. Yukawa Couplings & Mass Constraints  
+Detailed Yukawa interaction analysis is in the **[Yukawa & Mass](../Yukawa_and_Mass/)** section.  
+This includes:
+- Operator–coefficient matching in SMEFT  
+- Collider bounds from pair production
 
 ---
 
 ## 6. Pair Production Studies  
-Collider-level simulation results → **[Pair Production Cross-Section](../pair_production/README.md)**
+See **[Pair Production](../Pair_Production/)** for:
+- MadGraph simulations  
+- Cross-section calculations  
+- ATLAS/CMS exclusion limits
 
 ---
 
 ## 7. Materials  
-- 📄 **[MSc Dissertation PDF](../materials/dissertation.pdf)**  
-- 📊 **[Oral Presentation Slides](../materials/oral_presentation.pdf)**
+Relevant files, figures, and final project documents are available in **[Materials](../Materials/)**:
+- Dissertation PDF  
+- Oral presentation slides  
+- Additional plots
 
 ---
 
-## References  
-1. D. Sutherland *et al.*, *Internal MSc Project Notes*, University of Glasgow (2025).  
-2. ATLAS Collaboration, *Search for Scalar Leptoquarks*, [arXiv:2101.11582](https://arxiv.org/abs/2101.11582)  
-3. [MadGraph5_aMC@NLO Documentation](https://launchpad.net/mg5amcnlo)  
+**References:**  
+
