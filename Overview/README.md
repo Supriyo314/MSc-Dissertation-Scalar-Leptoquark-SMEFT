@@ -29,9 +29,15 @@ Leptoquarks are hypothetical bosons that couple directly to a quark and a lepton
 ## 3. Collider Physics & The Need for SMEFT
 At hadron colliders like the **LHC**, searches for BSM particles require:
 - High-energy parton collisions  
-- Accurate modelling of SM and BSM processes  
+- Accurate modelling of SM and BSM processes
+  
+Although currently we are runnig at 13.5 TeV enerygy, we have not found any particle 
+-> the particel is massive 
+-> can decay faster. 
+Another process of observing these particles are SMEFT.
 
-**SMEFT (Standard Model Effective Field Theory)** is used when new particles are too heavy to be directly produced, allowing their effects to be studied through higher-dimensional operators.
+**SMEFT (Standard Model Effective Field Theory)** is a framework that interwgates out the heavy partile and observe its effect on the SM process precisely. The UV lagrangian for the particel can be comapred to the multiplication of Wilson Coefficients and Operator. Depending on the mass dimension of the operator, mass dimension of the wilson coefficinet changes. 
+(e.g if Operator of Mass dimension: 6 -> Wilson Coeff. mass dimension -2. 
 
 ---
 
