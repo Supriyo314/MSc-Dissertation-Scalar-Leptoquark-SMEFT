@@ -50,7 +50,7 @@ Another process of observing these particles are SMEFT.
 ---
 
 ## 5. Yukawa Couplings & Mass Constraints  
-Detailed Yukawa interaction analysis is in the **[Yukawa & Mass](../Yukawa_and_Mass/)** section.  
+Detailed Yukawa interaction analysis is in the **[Yukawa & Mass](../Wilson_Coefficients/)** section.  
 This includes:
 - Operator–coefficient matching in SMEFT  
 - Collider bounds from pair production
