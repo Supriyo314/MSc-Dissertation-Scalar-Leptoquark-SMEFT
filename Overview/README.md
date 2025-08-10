@@ -31,7 +31,7 @@ At hadron colliders like the **LHC**, searches for BSM particles require:
 - High-energy parton collisions  
 - Accurate modelling of SM and BSM processes
   
-Although currently we are runnig at 13.5 TeV enerygy, we have not found any particle 
+Although currently we are runnig at 13.5 TeV enerygy, we have not found any new particle 
 -> the particel is massive 
 -> can decay faster. 
 Another process of observing these particles are SMEFT.
