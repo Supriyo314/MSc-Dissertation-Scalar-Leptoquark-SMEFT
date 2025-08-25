@@ -9,12 +9,12 @@ The resulting cross-sections were compared with the 95% CL ATLAS limits (139 fb�
 ## Results
 
 - **$r2p53$ (ec), $y_{12}$ on**  
-  ![r2p53_y12](../figures/r2p53_y12.png)  
+  ![r2p53_y12](../Figures/r2p53_y12.png)
   → Observed (red), Expected (black dashed), bands (green/yellow), Theory (green dotted).  
   → Exclusion pushes the mass bound to about **~1.0–1.1 TeV**.
 
 - **$r2p23$ (μν jet), $y_{22}$ on**  
-  ![r2p23_y22](../figures/r2p23_y22.png)  
+ ![r2p23_y22](../Figures/r2p23_y22.png)
   → Same plotting convention.  
   → Mass bound around **~1.2 TeV**.
 
