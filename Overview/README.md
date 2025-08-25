@@ -59,7 +59,7 @@ This includes:
 ---
 
 ## 6. Pair Production Studies  
-See **[Pair Production](../Pair_Production/)** for:
+See **[Pair Production](../Mass_Bound/)** for:
 - MadGraph simulations  
 - Cross-section calculations  
 - ATLAS/CMS exclusion limits
