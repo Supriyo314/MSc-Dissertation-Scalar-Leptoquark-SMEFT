@@ -5,7 +5,7 @@ higher-dimensional operators once integrated out.
 Each operator O_i comes with a **Wilson coefficient** C_i which measures
 the strength of the new interaction relative to the scale Λ:
 
-    L_SMEFT = L_SM + Σ (C_i / Λ²) * O_i
+    $L_SMEFT = L_SM + Σ (C_i / Λ²) * O_i$
 
 - O_i: effective operator built from SM fields  
 - C_i: Wilson coefficient (dimensionless, encodes new physics)  
@@ -25,7 +25,7 @@ of this coefficient compared to the Standard Model prediction.*
 
 ## Yukawa–Mass Parameter Space
 
-![y33_vs_mass](Plots/y33_vs_mass.png)
+![y33_vs_mass](Plots/y_lu_13.png)
 
 *Allowed region in the (|y_33|, M_Pi7) plane.  
 The blue contour shows low-energy SMEFT constraints, while the orange dashed
