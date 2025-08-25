@@ -5,6 +5,8 @@ For each scan, only a single Yukawa coupling was switched on, and the leptoquark
 The resulting cross-sections were compared with the 95% CL ATLAS limits (139 fb⁻¹, 13 TeV).
 He we have not decayed the particle in to desired state but turned on the Yukawa to see any effect inthe pair production. Since $\Pi_7$ is triplet in SU(3), it is QCD dominated at production cross section.
 
+We averaged the lower bound mass for our particel is : 1.2 TeV.
+
 ---
 
 ## Results
