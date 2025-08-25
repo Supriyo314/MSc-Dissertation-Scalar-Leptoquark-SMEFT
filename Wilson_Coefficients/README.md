@@ -6,8 +6,8 @@ Each operator $\mathcal{O}_i$ comes with a **Wilson coefficient** $C_i$ which me
 the strength of the new interaction relative to the scale $\Lambda$:
 
 \[
-\mathcal{L}_{\text{SMEFT}} = \mathcal{L}_{\text{SM}}
-+ \sum_i \frac{C_i}{\Lambda^2}\,\mathcal{O}_i .
+$\mathcal{L}_{\text{SMEFT}} = \mathcal{L}_{\text{SM}}
++ \sum_i \frac{C_i}{\Lambda^2}\,\mathcal{O}_i$ .
 \]
 
 - $\mathcal{O}_i$: effective operator built from SM fields  
