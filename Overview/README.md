@@ -2,7 +2,7 @@
 ## 1. The Standard Model (SM)
 The Standard Model (SM) of particle physics is a gauge theory based on the symmetry group:  
 
-**SU(3)<sub>C</sub> × SU(2)<sub>W</sub> × U(1)<sub>Y</sub>**  
+**SU(3)<sub>C</sub> × SU(2)<sub>L</sub> × U(1)<sub>Y</sub>**  
 
 It successfully describes strong, weak, and electromagnetic interactions.  
 However, the SM fails to explain:
@@ -31,17 +31,18 @@ At hadron colliders like the **LHC**, searches for BSM particles require:
 - High-energy parton collisions  
 - Accurate modelling of SM and BSM processes
   
-Although currently we are runnig at 13.5 TeV enerygy, we have not found any new particle 
--> the particel is massive 
--> can decay faster. 
-Another process of observing these particles are SMEFT.
+Although currently we are runnig at 13.6 TeV enerygy, we have not found any new particle. So,
+- The particel is massive 
+- Decays faster.
+  
+Another process of observing these particles is SMEFT.
 
-**SMEFT (Standard Model Effective Field Theory)** is a framework that integrates out the heavy partile and observe its effect on the SM process precisely. The UV lagrangian for the particle can be compared to the multiplication of Wilson Coefficients and Operator. Depending on the mass dimension of the operator, mass dimension of the wilson coefficinet changes. 
+**SMEFT (Standard Model Effective Field Theory)** is a framework that integrates out the heavy particle and observe its effect on the SM process precisely. The UV lagrangian for the particle can be compared to the multiplication of Wilson Coefficients and Operator with corresponding energy scale. Depending on the mass dimension of the operator, mass dimension of the wilson coefficinet changes. 
 (e.g if Operator of Mass dimension: 6 -> Wilson Coeff. mass dimension -2. )
 
 ---
 
-## 4. About the Scalar Leptoquark Π<sub>7</sub>
+## 4. Scalar Leptoquark Π<sub>7</sub>
 - Gauge quantum numbers: **(3, 2)<sub>7/6</sub>**  
 - Appears in 45 Higgs Dimensional of extended higgs sector of SU(5) : GUT models  
 - Couples to both left-handed and right-handed fermions  
