@@ -23,5 +23,5 @@ He we have not decayed the particle in to desired state but turned on the Yukawa
 
 These plots demonstrate how different Yukawa structures shift the exclusion, with theory predictions crossing the ATLAS 95% CL curves at different mass ranges.
 ## Comparison
-We can clearly see that for the charge 5/3 in $y_{12}$, the lower mass bound is much lower than charge 2/3 in $y_{22}$. The possible estimation is beacause of the high sesitivty in electron chalorimeter, background effects are also mildly contributing in this electron production making high luminosity compared to expected line.
-
+We observe that for the charge-5/3 leptoquark in the $y_{12}$ coupling (electron channel), the lower mass bound is noticeably weaker than for the charge-2/3 leptoquark in the $y_{22}$ coupling (muon/jet channel).
+A plausible reason is the high sensitivity of the ATLAS electromagnetic calorimeter, which enhances the efficiency of electron identification. However, this channel is also affected by larger Standard Model backgrounds (such as $Z/γ^* \to ee$ and $W \to eν$ with jets), which leads to fluctuations between observed and expected limits. In contrast, the muon+jet final state tends to have cleaner backgrounds and more stable reconstruction, giving a stronger exclusion.
