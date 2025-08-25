@@ -17,7 +17,7 @@ $\mathcal{L}_{SMEFT}$ = $\mathcal{L}_{\text{SM}}
 
 ## χ² Scan for Wilson Coefficient
 
-![C_lu_1133](plots/C_lu_1133.png)
+![C_lu_1133](../Wilson_Coefficients/Plots/C_lu_1133.png)
 
 *Δχ² profile for $C_{lu}^{1133}$.  
 The intersections with the 1σ (orange) and 2σ (red) lines give the allowed range
@@ -27,7 +27,7 @@ of this coefficient compared to the Standard Model prediction.*
 
 ## Yukawa–Mass Parameter Space
 
-![y33_vs_mass](plots/y33_vs_mass.png)
+![y33_vs_mass](../Wilson_Coefficients/Plots/y_lu_13.png)
 
 *Allowed region in the $(|y_{33}|, M_{\Pi_7})$ plane.  
 The blue contour shows low-energy SMEFT constraints, while the orange dashed
