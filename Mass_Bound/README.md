@@ -23,5 +23,5 @@ He we have not decayed the particle in to desired state but turned on the Yukawa
 
 These plots demonstrate how different Yukawa structures shift the exclusion, with theory predictions crossing the ATLAS 95% CL curves at different mass ranges.
 ## Comparison
-We can clearly see that for the charge 5/3 in $y_{12}$, the lower mass bound is much higher than charge 2/3 in $y_{22}$. The possible estimation is beacause of the high sesitivty in electron chalorimeter, background effects are also mildly contributing in this electron production making high luminosity capared to expected line.
+We can clearly see that for the charge 5/3 in $y_{12}$, the lower mass bound is much lower than charge 2/3 in $y_{22}$. The possible estimation is beacause of the high sesitivty in electron chalorimeter, background effects are also mildly contributing in this electron production making high luminosity compared to expected line.
 
