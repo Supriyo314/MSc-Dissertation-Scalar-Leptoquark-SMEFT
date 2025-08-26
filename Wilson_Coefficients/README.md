@@ -15,7 +15,7 @@ the strength of the new interaction relative to the scale Λ:
 
 ## Chi² Scan for Wilson Coefficient
 
-![C_lu_1133](Plots/C_lu_1133.png)
+![C_lu_1133](Plots/C_lu_3333.png)
 
 *Chi² profile for C_lu^1133.  
 The intersections with the 1σ (orange) and 2σ (red) lines give the allowed range
