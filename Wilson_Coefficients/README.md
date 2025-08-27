@@ -25,7 +25,7 @@ of this coefficient compared to the Standard Model prediction.*
 
 ## Yukawa–Mass Parameter Space
 
-![y33_vs_mass](Plots/.png)
+![y33_vs_mass](Plots/C_lu_3333_yukawa.png)
 
 *Allowed region in the (|y_33|, M_Pi7) plane.  
 The blue contour shows low-energy SMEFT constraints, while the orange dashed
