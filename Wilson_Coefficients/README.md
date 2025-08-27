@@ -28,9 +28,9 @@ of this coefficient compared to the Standard Model prediction.*
 ![y33_vs_mass](Plots/C_lu_3333_yukawa.png)
 
 *Allowed region in the (|y_33|, M_Pi7) plane.  
-The blue contour shows low-energy SMEFT constraints, while the orange dashed
+The green contour shows low-energy SMEFT constraints, while the orange dashed
 line indicates the collider pair-production bound. The overlap defines the
-viable parameter space for the scalar leptoquark.*
+viable parameter space for the scalar leptoquark. With the incresing of the mass the Yukawa has to increase.*
 
 ---
 
