@@ -15,7 +15,7 @@ the strength of the new interaction relative to the scale Λ:
 
 ## Chi² Scan for Wilson Coefficient
 
-![C_lu_1133](Plots/C_lu_3333_yuakawa.png)
+![C_lu_1133](Plots/C_lu_3333.png)
 
 *Chi² profile for C_lu^1133.  
 The intersections with the 1σ (orange) and 2σ (red) lines give the allowed range
@@ -25,7 +25,7 @@ of this coefficient compared to the Standard Model prediction.*
 
 ## Yukawa–Mass Parameter Space
 
-![y33_vs_mass](Plots/y_lu_13.png)
+![y33_vs_mass](Plots/.png)
 
 *Allowed region in the (|y_33|, M_Pi7) plane.  
 The blue contour shows low-energy SMEFT constraints, while the orange dashed
