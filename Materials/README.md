@@ -8,5 +8,5 @@ Please **do not reuse, reproduce, or modify** without permission.
 If you wish to reference ideas or figures from this work, please credit:
 
 **Supriyo Dutta**  
-📧 supriyodutta314@email.com
+📧 supriyodutta314@gmail.com
 
